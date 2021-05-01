@@ -6,8 +6,7 @@ __pycache__/
 # C extensions
 *.so
 
-<<<<<<< HEAD
-=======
+
 *.npz
 
 >>>>>>> Create tensor dataset from Fashion images
